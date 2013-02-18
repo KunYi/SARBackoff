@@ -1,4 +1,11 @@
 SARBackoff
 ==========
 
-only for Sierra AirPrime module, the program use internal class and need signed your platform key
+Only for Sierra AirPrime module
+the program for verify Sierra SAR Backoff function.
+
+
+Tips.
+=========
+    **The program use some internal class
+    **Need signed your platform key
